@@ -1,6 +1,6 @@
-<img src="https://github.com/muhandojeon/Modern-React-Deep-Dive/assets/26461307/3137b976-cbb0-4dc5-ba6e-466d9a5f9ce3" alt="프로그래머의 뇌" align="right" width="200" />
+<img src="https://github.com/user-attachments/assets/0b6d07a3-24cc-4ecf-b451-dc05180e1696" alt="프로그래머의 뇌" align="right" width="200" />
 
-# 책 이름
+# 프로그래머의 뇌
 
 인지과학에 기반을 둔 각종 방법론으로 개발자가 새로운 언어나 프레임워크를 빠르게 배워 생산성을 향상하도록 돕는다. 코드를 더 잘 이해하는 것에서 나아가, 버그 방지, 명확한 작명법, 리팩터링, 대규모 코드베이스 개선에 이르기까지 과학적으로 입증된 기법을 제시한다.
 
